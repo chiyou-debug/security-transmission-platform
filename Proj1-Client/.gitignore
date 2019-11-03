@@ -1,0 +1,4 @@
+bin
+obj
+Message.pb.cc
+Message.pb.h
